@@ -1,3 +1,4 @@
+#!/bin/sh
 clear
 
 read -p 'Welches Arbeitsverzeichnis willst du?: [~/android/recovery-twrp]' WORK_DIR
